@@ -1,0 +1,3 @@
+services:
+    cimpress.githubapi.helper:
+        class: AppBundle\Helper\GithubApiHelper
